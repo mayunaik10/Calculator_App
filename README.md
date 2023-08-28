@@ -1,4 +1,4 @@
 # android-calculator
-DDeveloped Calculator app using Android Studio in Java
+Developed Calculator app using Android Studio in Java
 
 
